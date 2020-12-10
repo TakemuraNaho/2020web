@@ -1,4 +1,4 @@
- <script>
+
       let myButton = document.querySelector('button');
       let myHeading = document.querySelector('h1');
       function setUserName() {
@@ -20,5 +20,5 @@ myImage.onclick = function() {
     }
 }
       
-      </script>
+     
     
